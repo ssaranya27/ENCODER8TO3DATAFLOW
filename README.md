@@ -65,6 +65,8 @@ RegisterNumber: 212223220101
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 ![alt text](output.png)
+
+
 **RESULTS**
 Thus the code is ececuted successfully.
 
